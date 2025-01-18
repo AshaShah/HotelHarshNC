@@ -2,7 +2,7 @@ import React from "react";
 import './Services.css'
 import service_1 from '../../assests/service_1.jpg'
 import service_2 from '../../assests/service_2.jpg'
-import service_3 from '../../assests/service_3.jpg'
+import service_3 from '../../assests/service_3.jpeg'
 import service_icon_1 from '../../assests/theater.png'
 import service_icon_2 from '../../assests/hall.png'
 import service_icon_3 from '../../assests/hotel.png'
