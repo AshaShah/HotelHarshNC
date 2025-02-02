@@ -39,9 +39,9 @@ const Contact = () => {
         <h3>Send us a message <img src={message_icon} alt="" /></h3>
         <p>For any inquiries or bookings, feel free to reach out to us using the contact information below. Our team is available to assist you with any questions you may have.</p>
         <ul>
-        <li><a href="mailto:asha.shah228@gmail.com"><img src={email_icon} alt="" /> asha.shah228@gmail.com</a></li>
-                        <li><a href="tel:9845022349"><img src={phone_icon} alt="" />9845022349</a></li>
-                        <li><a href="tel:9855035990"><img src={phone_icon} alt="" />9855035990</a></li>
+        <li><a href="mailto:hotelharshnc.nepal@gmail.com"><img src={email_icon} alt="" /> hotelharshnc.nepal@gmail.com</a></li>
+                        <li><a href="tel:9763367780"><img src={phone_icon} alt="" />9763367780</a></li>
+                        <li><a href="tel:051-524062"><img src={phone_icon} alt="" />051-524062</a></li>
                         <li><a href="https://www.google.com/maps?q=2V7P+9HR+Birgunj,Vishuwa+44300,Nepal" target="_blank" rel="noopener noreferrer"><img src={location_icon} alt="" />2V7P+9HR Birgunj, Vishuwa-15, Nepal</a></li>
         </ul>
       </div>
